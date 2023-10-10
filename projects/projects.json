@@ -1,0 +1,34 @@
+[
+
+
+  {
+    "name": "Youtube Clone",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/codetanishq/YouTbeClone"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/codetanishq/portfolio"
+    }
+  },
+  {
+    "name": "Travel agency Website",
+    "desc": "Simple Travel agency Website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
+    "image": "travel",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/codetanishq/Travel-Agency"
+    }
+  }
+]
